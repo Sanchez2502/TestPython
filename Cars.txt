@@ -1,0 +1,1 @@
+{"Mersedes": "100000 USD", "Opel": "50000 USD", "BMW": "150000 USD", "Toyota": "150000 USD", "Volkswagen": "100000 USD", "Skoda": "60000 USD", "Citroen": "70000 USD", "Honda": "120000 USD", "Reno": "90000 USD", "Fiat": "65000 USD", "Porsche": "220000 USD"}
